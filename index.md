@@ -1,8 +1,6 @@
 ### *resume*
 
-#  ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий 
-
-##  начинающий python - разработчик                         
+#  ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий python - разработчик                         
 
 |[Mоё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|[Моё CV (сurriculum vitae)](https://konicaru.github.io/cv/)|Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)|
 
